@@ -2,19 +2,10 @@
 [
   {
     "version": "1.0",
-    "author": "Rogplay",
-    "title": "TMDB",
-    "logo": "https://raw.githubusercontent.com/rogplay/public/refs/heads/main/assets/tmdb.jpg",
-    "url": "https://api.rogplay.site/cinema/server.json",
-    "type": "cinema",
-    "description": "Tmdb Addons to display all the movies and series information by tmdb id."
-  },
-  {
-    "version": "1.0",
     "author": "HIGHRISK",
     "title": "TMDB Cinema",
     "logo": "https://raw.githubusercontent.com/rogplay/public/refs/heads/main/assets/tmdb.jpg",
-    "url": "https://api.rogplay.site/cinema/cinema.json",
+    "url": "https://raw.githubusercontent.com/kunwarxshashank/rogplay_addons/refs/heads/main/cinema/cinema.json",
     "type": "cinema",
     "description": "Addons to fetch movies, series, animes from different sources using tmdb api."
   },
@@ -23,7 +14,7 @@
     "author": "Madstream",
     "title": "Live TV",
     "logo": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/e2318528-9366-46b2-844f-34513f3840cf/d3hhy78-99f49625-2abf-416a-86fb-8166aee9a2b3.jpg/v1/fit/w_678,h_551,q_70,strp/live_tv_logo_design_by_hindwebdesigns_d3hhy78-375w-2x.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTUxIiwicGF0aCI6IlwvZlwvZTIzMTg1MjgtOTM2Ni00NmIyLTg0NGYtMzQ1MTNmMzg0MGNmXC9kM2hoeTc4LTk5ZjQ5NjI1LTJhYmYtNDE2YS04NmZiLTgxNjZhZWU5YTJiMy5qcGciLCJ3aWR0aCI6Ijw9Njc4In1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.TH-4PFEWTcALRSZL7ck4T4I-k3NEyVWCitLjYthP_Ek",
-    "url": "https://api.rogplay.site/addons.json",
+    "url": "https://raw.githubusercontent.com/kunwarxshashank/rogplay_addons/refs/heads/main/livetv/livetv.json",
     "type": "livetv",
     "description": "Popular Live Tv Addons"
   }
