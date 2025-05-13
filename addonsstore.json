@@ -11,21 +11,20 @@
   },
   {
     "version": "1.0",
+    "author": "HIGHRISK",
+    "title": "LIVE TV",
+    "logo": "https://downloadr2.apkmirror.com/wp-content/uploads/2024/08/20/66ba1293db1f3_com.tcl.livetv.png",
+    "url": "https://hindimovie.vercel.app",
+    "type": "livetv",
+    "description": "Live Tv"
+  }
+  {
+    "version": "1.0",
     "title": "Free IPTV",
     "author": "Free IPTV Org",
     "logo": "https://raw.githubusercontent.com/rogplay/public/refs/heads/main/assets/freeiptv.png",
-    "url": "https://raw.githubusercontent.com/rogplay/rogplayaddons/refs/heads/main/freeiptv.json",
+    "url": "https://raw.githubusercontent.com/kunwarxshashank/rogplay_addons/refs/heads/main/livetv/livetv.json",
     "type": "livetv",
     "description": "List of Free and Public IPTV Channels available worldwide"
-  },
-  {
-    "version": "1.0",
-    "author": "Alex",
-    "title": "DesiHub",
-    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2a6npAwoTorVuvcriiac5B0VLk7aTOx9Kng&s",
-    "url": "https://pastebin.com/raw/svY08KQY",
-    "type": "movie",
-    "description": "18+ Videos from different O.T.T Sources"
   }
-  
 ]
