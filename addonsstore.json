@@ -26,5 +26,14 @@
     "url": "https://raw.githubusercontent.com/kunwarxshashank/rogplay_addons/refs/heads/main/livetv/livetv.json",
     "type": "livetv",
     "description": "List of Free and Public IPTV Channels available worldwide"
+  },
+  {
+    "version": "1.0",
+    "author": "HIGHRISK",
+    "title": "YOMOVIES",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0ArlaGOiCR5eeJpUsi0KRbcWx58USLMcKuQ&s",
+    "url": "http://madplay.site/api/yomovies",
+    "type": "movie",
+    "description": "Latest Movies and Series from YOMOVIES"
   }
 ]
