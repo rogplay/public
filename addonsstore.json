@@ -35,5 +35,14 @@
     "url": "https://raw.githubusercontent.com/kunwarxshashank/rogplay_addons/refs/heads/main/movies/yomovies.json",
     "type": "movie",
     "description": "Latest Movies and Series from YOMOVIES"
+  },
+  {
+    "version": "1.0",
+    "author": "HIGHRISK",
+    "title": "Hindi Movie",
+    "logo": "https://yt3.googleusercontent.com/ytc/AIdro_maBL20YKBdGvd0wLHE-4plrMQ24c4GOys8J61jyx4A3Q=s900-c-k-c0x00ffffff-no-rj",
+    "url": "https://raw.githubusercontent.com/kunwarxshashank/rogplay_addons/refs/heads/main/movies/hindimovie.json",
+    "type": "movie",
+    "description": "Work with VPN Only"
   }
 ]
