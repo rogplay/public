@@ -32,7 +32,7 @@
     "author": "HIGHRISK",
     "title": "YOMOVIES",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0ArlaGOiCR5eeJpUsi0KRbcWx58USLMcKuQ&s",
-    "url": "https://madplay.site/api/yomovies",
+    "url": "https://raw.githubusercontent.com/kunwarxshashank/rogplay_addons/refs/heads/main/movies/yomovies.json",
     "type": "movie",
     "description": "Latest Movies and Series from YOMOVIES"
   }
