@@ -2,5 +2,6 @@
   "appname": "Rogplay",
   "version": "2.0.0",
   "apklink": "https://telegram.me/rogplaychats",
-  "telegram": "https://telegram.me/rogplay"
+  "telegram": "https://telegram.me/rogplay",
+  "versionname": "alpha"
 }
