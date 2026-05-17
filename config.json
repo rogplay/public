@@ -1,7 +1,7 @@
 {
   "appname": "RogPlay",
-  "version": "6.3.1",
+  "version": "6.5.0",
   "androidVersionCode": 18,
-  "apklink": "https://archive.org/download/Tmovies/Tmovies.zip/Tmovie.apk",
+  "apklink": "https://github.com/kunwarxshashank/rogplay/releases/download/v6.5.0/armv64.apk",
   "telegram": "https://telegram.me/rogplay"
 }
