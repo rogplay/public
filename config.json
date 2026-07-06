@@ -3,10 +3,10 @@
   "version": "7.0.0",
   "androidVersionCode": 20,
   "apklink": "https://github.com/kunwarxshashank/rogplay/releases/download/v6.6.0/arm64.apk",
-  "telegram": "https://telegram.me/rogplay"
-  "releaseNotes": [
+  "telegram": "https://telegram.me/rogplay",
+  "releaseNotes": {
     "Plugin Addons Introduced",
     "UI Improved",
     "Bug fixes"
-  ]
+  }
 }
